@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM ubuntu:20.04
 
 # Set environment variables
 ENV PYTHON_VERSION 3.7.7
